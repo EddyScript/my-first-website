@@ -1,0 +1,50 @@
+.menu {
+    color:white;
+    font-size: 160%
+}
+.menu-dogs {
+    background-color:rgb(36, 228, 155);
+    color:white;
+    font-size: 160%;
+    padding: .88%;
+    margin-left: -.81%;
+    margin-top: -.91%;
+    margin-right: 49%;
+
+}
+
+.aboutmebio-title {
+    color:white;
+    font-size: 200% ;
+    padding: 2%;
+    border-style: solid;
+    border-width: .090mm;
+    margin: 200px
+}
+
+.aboutmebio-body {
+    color:white;
+    font-size: 100%;
+}
+.about-dog-name {
+    background-color: bisque;
+    font-size: 160%;
+    padding: 0%;
+    margin-left: 0%;
+    margin-top: 6%;
+    margin-right: 70.7%;
+    margin-bottom: 5%;
+    
+    
+}
+
+.about-dog-info {
+    background-color: bisque;
+    font-size: 160%;
+    padding: 0%;
+    margin-left: 0%;
+    margin-top: -5%;
+    margin-right: 70.7%;
+    margin-bottom: 5%;
+
+}
